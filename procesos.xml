@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<TODOS>
+  <proceso>
+    <nombre>chrome.exe</nombre>
+    <pid>11448</pid>
+    <nombreses>Console</nombreses>
+    <numeroses>1</numeroses>
+    <Cmemoria>217.124 KB</Cmemoria>
+    <estadoproc>Not Responding</estadoproc>
+    <usuario>g  DESKTOP-GR19BL6\Luis Alfredo Villera</usuario>
+    <tiempocpu>0:55:37</tiempocpu>
+    <titulovent>AngleHiddenWindow</titulovent>
+    <prioridad>0</prioridad>
+  </proceso>
+  <proceso>
+    <nombre>Memory Compression</nombre>
+    <pid>1812</pid>
+    <nombreses>Services</nombreses>
+    <numeroses>0</numeroses>
+    <Cmemoria>197.244 KB</Cmemoria>
+    <estadoproc>Unknown</estadoproc>
+    <usuario>N/D</usuario>
+    <tiempocpu>0:05:19</tiempocpu>
+    <titulovent>N/D</titulovent>
+    <prioridad>1</prioridad>
+  </proceso>
+  <proceso>
+    <nombre>chrome.exe</nombre>
+    <pid>4152</pid>
+    <nombreses>Console</nombreses>
+    <numeroses>1</numeroses>
+    <Cmemoria>187.960 KB</Cmemoria>
+    <estadoproc>Unknown</estadoproc>
+    <usuario>DESKTOP-GR19BL6\Luis Alfredo Villera</usuario>
+    <tiempocpu>0:00:40</tiempocpu>
+    <titulovent>N/D</titulovent>
+    <prioridad>0</prioridad>
+  </proceso>
+  <proceso>
+    <nombre>chrome.exe</nombre>
+    <pid>8628</pid>
+    <nombreses>Console</nombreses>
+    <numeroses>1</numeroses>
+    <Cmemoria>176.076 KB</Cmemoria>
+    <estadoproc>Running</estadoproc>
+    <usuario>DESKTOP-GR19BL6\Luis Alfredo Villera</usuario>
+    <tiempocpu>0:36:53</tiempocpu>
+    <titulovent>localhost/tallerso/index.php - Google Chrome</titulovent>
+    <prioridad>0</prioridad>
+  </proceso>
+  <proceso>
+    <nombre>chrome.exe</nombre>
+    <pid>15132</pid>
+    <nombreses>Console</nombreses>
+    <numeroses>1</numeroses>
+    <Cmemoria>162.864 KB</Cmemoria>
+    <estadoproc>Unknown</estadoproc>
+    <usuario>DESKTOP-GR19BL6\Luis Alfredo Villera</usuario>
+    <tiempocpu>0:00:15</tiempocpu>
+    <titulovent>N/D</titulovent>
+    <prioridad>0</prioridad>
+  </proceso>
+</TODOS>
